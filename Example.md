@@ -33,3 +33,12 @@ _ITALICIZES_
     </iframe>
   </body>
 
+<br> 
+
+
+<body>
+    <iframe src="media/shortcuts.pdf" width="100%" height="500px">
+    </iframe>
+  </body>
+
+<br> 
